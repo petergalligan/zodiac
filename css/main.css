@@ -1,0 +1,44 @@
+body {
+  background-image: url("../img/stars.jpg");
+  background-size: cover;
+}
+div {
+  text-align: center;
+}
+
+input {
+  padding: 5px 20px;
+  font-size: 20px;
+  background-color: #1aa3ff;
+  color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+button {
+  padding: 6px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: solid 1px #1aa3ff;
+  background-color: #1aa3ff;
+  color: white;
+;
+
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  margin-top: 10%;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+}
+
+p {
+  color: white;
+  font-size: 25px;
+  width: 40%;
+  margin: 0 auto;
+}
